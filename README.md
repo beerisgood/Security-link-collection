@@ -15,3 +15,4 @@
 * Some [Thoughts](https://qua3k.github.io/pegasus/) about the NSO Group's Pegasus
 * [An](https://twitter.com/ZanthedNT/status/1446943944261128192?t=ZuoyFaaPKD5WW5vfWoWnNg&s=19) [Antivirus](https://twitter.com/taviso/status/1062828228060966912) [does](https://twitter.com/garrettr_/status/717238975744892928?t=j9d0SGZUZambLn7gRpvv9Q&s=19) [not](https://twitter.com/nickdothutton/status/1185095705133801472?t=yKJ87zBcuYTDNRxRATGNHg&s=19) [improve](https://twitter.com/nickdothutton/status/1359845341324070912?t=ZU6syPBhVyjAf7PRN-75FA&s=19) [your](https://twitter.com/SoatokDhole/status/1166256211320291328?t=CjbryP1Ep7Y9XTrlHZVo-A&s=19) security
 * [Enumerating](https://lwn.net/Articles/293034/) badness
+* [How](https://palant.info/2021/12/29/how-did-lastpass-master-passwords-get-compromised/) did LastPass master passwords get compromised?
