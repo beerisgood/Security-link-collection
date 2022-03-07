@@ -18,3 +18,4 @@
 * [How](https://palant.info/2021/12/29/how-did-lastpass-master-passwords-get-compromised/) did LastPass master passwords get compromised?
 * (Electron; nodejs) [Applications](https://github.com/sickcodes/no-sandbox) that run Chromium without the Sandbox
 * [test](https://isbgpsafeyet.com/) your ISP (Internet Service Provider) Border Gateway Protocol (BGP) security
+* Stop using (encrypted) [Email](https://latacora.singles/2020/02/19/stop-using-encrypted.html)
