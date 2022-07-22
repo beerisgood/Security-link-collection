@@ -22,3 +22,4 @@
 * Stop using (encrypted) [Email](https://latacora.singles/2020/02/19/stop-using-encrypted.html)
 * FLOSS [doesn't](https://seirdy.one/2022/02/02/floss-security.html) imply security
 * Email Security [Pitfalls](https://improsec.com/tech-blog/email-security-pitfalls)
+* End-to-End Encryption in [Web Apps](https://cronokirby.com/posts/2021/06/e2e_in_the_browser/)
