@@ -25,3 +25,4 @@
 * End-to-End Encryption in [Web Apps](https://cronokirby.com/posts/2021/06/e2e_in_the_browser/)
 * Docker - the [security nightmare](https://wonderfall.dev/docker-hardening/#is-it-really-a-security-nightmare) of [dependencies](https://wonderfall.dev/docker-hardening/#the-nightmare-of-dependencies)
 * SIM Card [Hijacking](https://www.maketecheasier.com/sim-card-hijacking/): How it works and what you can do about it
+* [SS7](https://secure-voice.com/ss7_attacks/) Attacks: Intercepting SMS and calls as easy as ABC
