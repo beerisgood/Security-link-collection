@@ -28,3 +28,4 @@
 * [SS7](https://secure-voice.com/ss7_attacks/) Attacks: Intercepting SMS and calls as easy as ABC
 * Messenger (problems): [Whatsapp's Backups](https://sudneela.github.io/posts/the-workings-of-whatsapps-end-to-end-encrypted-backups/), [Signal's Sealed Sender](https://www.ndss-symposium.org/ndss-paper/improving-signals-sealed-sender/), [Telegram](https://portswigger.net/daily-swig/multiple-encryption-flaws-uncovered-in-telegram-messaging-protocol)'s [*Cryptanalysis*](https://www.cryptofails.com/post/70546720222/telegrams-cryptanalysis-contest)
 * Browser Insecurity: [Pale Moon](https://seirdy.one/notes/2022/06/01/pale-moon/)
+* [SMS phishing](https://www.bejarano.io/sms-phishing/) is way too easy
