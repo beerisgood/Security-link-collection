@@ -1,7 +1,7 @@
 ### This list is constantly being expanded
 ![GitHub last commit](https://img.shields.io/github/last-commit/beerisgood/Security-link-collection?label=last%20update%3A&style=flat-square)
 
-* [Tavis Ormandy](https://twitter.com/taviso) opinion on [Password Managers](https://lock.cmpxchg8b.com/passmgrs.html)
+* [Tavis Ormandy](https://twitter.com/taviso) opinion on [Password Managers](https://lock.cmpxchg8b.com/passmgrs.html), also [fatal flaws](https://tonyarcieri.com/4-fatal-flaws-in-deterministic-password-managers) in deterministic password managers
 * Networking 101 [YouTube](https://www.youtube.com/playlist?list=PLR0bgGon_WTKY2irHaG_lNRZTrA7gAaCj)
 * The Six [Dumbest Ideas](https://www.ranum.com/security/computer_security/editorials/dumb/index.html) in Computer Security
 * [How](https://www.grc.com/dns/dns.htm) [*to*](https://dnssec.vs.uni-due.de/) [test](https://bash.ws/dnsleak/) [*your*](https://dnscheck.tools/) [DNS](https://cmdns.dev.dns-oarc.net) (security & privacy)
