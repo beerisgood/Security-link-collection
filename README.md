@@ -29,4 +29,4 @@
 * Messenger (problems): [Whatsapp's Backups](https://sudneela.github.io/posts/the-workings-of-whatsapps-end-to-end-encrypted-backups/), [Signal's Sealed Sender](https://www.ndss-symposium.org/ndss-paper/improving-signals-sealed-sender/), [Telegram](https://portswigger.net/daily-swig/multiple-encryption-flaws-uncovered-in-telegram-messaging-protocol)'s [*Cryptanalysis*](https://www.cryptofails.com/post/70546720222/telegrams-cryptanalysis-contest)
 * Browser Insecurity: [Pale Moon](https://seirdy.one/notes/2022/06/01/pale-moon/)
 * [SMS phishing](https://www.bejarano.io/sms-phishing/) is way too easy
-* [Don't!](https://gist.github.com/alexbakker/b297916d4375bc9fbb620def3ba64ff4) [*use*](https://superuser.com/a/926524) VPN services
+* [Don't!](https://gist.github.com/joepie91/5a9909939e6ce7d09e29) [*use*](https://superuser.com/a/926524) VPN services
