@@ -16,7 +16,7 @@
 * Some [Thoughts](https://qua3k.github.io/pegasus/) about the NSO Group's Pegasus
 * [An](https://web.archive.org/web/20211009210153/https://twitter.com/ZanthedNT/status/1446943944261128192) [*Antivirus*](https://twitter.com/taviso/status/1062828228060966912) [does](https://twitter.com/garrettr_/status/717238975744892928?t=j9d0SGZUZambLn7gRpvv9Q&s=19) [*not*](https://twitter.com/nickdothutton/status/1185095705133801472?t=yKJ87zBcuYTDNRxRATGNHg&s=19) [improve](https://twitter.com/nickdothutton/status/1359845341324070912?t=ZU6syPBhVyjAf7PRN-75FA&s=19) [*your*](https://twitter.com/SoatokDhole/status/1166256211320291328?t=CjbryP1Ep7Y9XTrlHZVo-A&s=19) [security](https://privsec.dev/knowledge/badness-enumeration/#antiviruses)
 * [Enumerating](https://lwn.net/Articles/293034/) badness
-* [How](https://palant.info/2021/12/29/how-did-lastpass-master-passwords-get-compromised/) did LastPass master passwords get compromised?
+* [How](https://palant.info/2021/12/29/how-did-lastpass-master-passwords-get-compromised/) did LastPass master passwords get compromised and [how](https://www.malwarebytes.com/blog/news/2022/08/source-code-of-password-manager-lastpass-stolen-by-attacker) their source code was stolen
 * (Electron; nodejs) [Applications](https://github.com/sickcodes/no-sandbox) that run Chromium without the Sandbox
 * [test](https://isbgpsafeyet.com/) your ISP (Internet Service Provider) Border Gateway Protocol (BGP) security
 * Stop using (encrypted) [Email](https://latacora.singles/2020/02/19/stop-using-encrypted.html)
