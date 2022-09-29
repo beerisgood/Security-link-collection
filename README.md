@@ -31,3 +31,4 @@
 * [SMS phishing](https://www.bejarano.io/sms-phishing/) is way too easy
 * [Don't!](https://gist.github.com/joepie91/5a9909939e6ce7d09e29) [*use*](https://superuser.com/a/926524) VPN services. Use [MPRs](https://invisv.com/articles/relay.html)
 * [avoid](https://blog.sekoia.io/luckymouse-uses-a-backdoored-electron-app-to-target-macos/) Electron [based](https://www.malwarebytes.com/blog/news/2022/08/a-vulnerability-was-found-in-electron-which-is-what-drives-discord-spotify-and-microsoft-teams) programs
+* [Matrix](https://twitter.com/tqbf/status/1575259743278563329?s=20) [*InSecurity*](https://twitter.com/claucece/status/1575155649314697216?s=20)
