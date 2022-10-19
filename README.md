@@ -30,7 +30,7 @@
 * Browser Insecurity: [Pale Moon](https://seirdy.one/notes/2022/06/01/pale-moon/)
 * [SMS phishing](https://www.bejarano.io/sms-phishing/) is way too easy
 * [Don't!](https://gist.github.com/joepie91/5a9909939e6ce7d09e29) [*use*](https://superuser.com/a/926524) VPN services. Use [MPRs](https://invisv.com/articles/relay.html)
-* [avoid](https://blog.sekoia.io/luckymouse-uses-a-backdoored-electron-app-to-target-macos/) Electron [based](https://www.malwarebytes.com/blog/news/2022/08/a-vulnerability-was-found-in-electron-which-is-what-drives-discord-spotify-and-microsoft-teams) programs
+* [avoid](https://blog.sekoia.io/luckymouse-uses-a-backdoored-electron-app-to-target-macos/) Electron [*based*](https://www.malwarebytes.com/blog/news/2022/08/a-vulnerability-was-found-in-electron-which-is-what-drives-discord-spotify-and-microsoft-teams) [programs](https://blog.doyensec.com/2022/09/27/electron-api-default-permissions.html)
 * [Matrix](https://twitter.com/tqbf/status/1575259743278563329?s=20) [*InSecurity*](https://twitter.com/claucece/status/1575155649314697216?s=20)
 * Phishing [with](https://mrd0x.com/phishing-with-chromium-application-mode/) Chromium's Application Mode
 * Browser in the Browser (BITB) [Attack](https://mrd0x.com/browser-in-the-browser-phishing-attack/)
