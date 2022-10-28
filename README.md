@@ -34,3 +34,4 @@
 * [Matrix](https://twitter.com/tqbf/status/1575259743278563329?s=20) [*InSecurity*](https://twitter.com/claucece/status/1575155649314697216?s=20)
 * Phishing [with](https://mrd0x.com/phishing-with-chromium-application-mode/) Chromium's Application Mode
 * Browser in the Browser (BITB) [Attack](https://mrd0x.com/browser-in-the-browser-phishing-attack/)
+* Chrome Browser Exploitation [Part 1](https://jhalon.github.io/chrome-browser-exploitation-1/)
