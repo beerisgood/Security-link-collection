@@ -35,3 +35,4 @@
 * Phishing [with](https://mrd0x.com/phishing-with-chromium-application-mode/) Chromium's Application Mode
 * Browser in the Browser (BITB) [Attack](https://mrd0x.com/browser-in-the-browser-phishing-attack/)
 * Chrome Browser Exploitation [Part 1](https://jhalon.github.io/chrome-browser-exploitation-1/)
+* [graphics](https://twitter.com/alexxubyte/status/1586012428122267648?s=20) about [PassKeys](https://www.passkeys.io) in detail
