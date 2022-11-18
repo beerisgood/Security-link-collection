@@ -36,3 +36,4 @@
 * Browser in the Browser (BITB) [Attack](https://mrd0x.com/browser-in-the-browser-phishing-attack/)
 * Chrome Browser Exploitation [Part 1](https://jhalon.github.io/chrome-browser-exploitation-1/)
 * [graphics](https://twitter.com/alexxubyte/status/1586012428122267648?s=20) about [PassKeys](https://www.passkeys.io) in detail
+* What [happens](https://blog.bytebytego.com/i/64353490/how-does-visa-work-when-we-swipe-a-credit-card-at-a-merchants-shop) when you swipe a credit card
