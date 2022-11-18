@@ -37,3 +37,4 @@
 * Chrome Browser Exploitation [Part 1](https://jhalon.github.io/chrome-browser-exploitation-1/)
 * [graphics](https://twitter.com/alexxubyte/status/1586012428122267648?s=20) about [PassKeys](https://www.passkeys.io) in detail
 * What [happens](https://blog.bytebytego.com/i/64353490/how-does-visa-work-when-we-swipe-a-credit-card-at-a-merchants-shop) when you swipe a credit card
+* What are the differences [between](https://www.youtube.com/watch?v=Jz8Gs4UHTO8) bare metal, virtual machines, and containers
