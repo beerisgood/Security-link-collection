@@ -40,3 +40,4 @@
 * What are the differences [between](https://www.youtube.com/watch?v=Jz8Gs4UHTO8) bare metal, virtual machines, and containers
 * HTTP/1 to HTTP/2 [to](https://www.youtube.com/watch?v=a-sBfyiXysI) HTTP/3
 * The Rising [Threat](https://www.apple.com/newsroom/pdfs/The-Rising-Threat-to-Consumer-Data-in-the-Cloud.pdf) to Consumer Data in the Cloud
+* Common [pitfalls](https://palant.info/2022/12/08/common-pitfalls-of-breaking-up-https-connections/) of breaking up HTTPS connections
