@@ -42,3 +42,4 @@
 * The Rising [Threat](https://www.apple.com/newsroom/pdfs/The-Rising-Threat-to-Consumer-Data-in-the-Cloud.pdf) to Consumer Data in the Cloud
 * Common [pitfalls](https://palant.info/2022/12/08/common-pitfalls-of-breaking-up-https-connections/) of breaking up HTTPS connections
 * (Motherboard vendor) MSI's [(in)Secure](https://dawidpotocki.com/en/2023/01/13/msi-insecure-boot/) Boot
+* (In)Security of the Unix "[Pass](https://rot256.dev/post/pass/)" password manager
