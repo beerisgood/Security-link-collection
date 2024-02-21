@@ -45,3 +45,4 @@
 * [Building a Trusted Ecosystem](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf) for Millions of Apps
 * Protecting Chrome Traffic with [Hybrid Kyber KEM](https://blog.chromium.org/2023/08/protecting-chrome-traffic-with-hybrid.html)
 * fail2ban [sucks](https://j3s.sh/thought/fail2ban-sux.html)
+* iMessage with [PQ3](https://security.apple.com/blog/imessage-pq3/) post-quantum cryptographic protocol
