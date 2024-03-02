@@ -47,3 +47,4 @@
 * fail2ban [sucks](https://j3s.sh/thought/fail2ban-sux.html)
 * iMessage with [PQ3](https://security.apple.com/blog/imessage-pq3/) post-quantum cryptographic protocol - external security review [1](https://security.apple.com/assets/files/Security_analysis_of_the_iMessage_PQ3_protocol_Stebila.pdf), [2](https://security.apple.com/assets/files/A_Formal_Analysis_of_the_iMessage_PQ3_Messaging_Protocol_Basin_et_al.pdf)
 * Security problems with [Routers](https://routersecurity.org/consumerrouters.php)
+* [how](https://developer.apple.com/security/complying-with-the-dma.pdf) Apple handle the Digital Markets Act
