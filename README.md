@@ -51,3 +51,4 @@
 * Breaking the DECT Standard Cipher [with](https://eprint.iacr.org/2024/404) Lower Time Cost
 * IoT Device Security [Specification 1.0](https://csa-iot.org/newsroom/the-connectivity-standards-alliance-product-security-working-group-launches-the-iot-device-security-specification-1-0/)
 * Cloud InSecurity: Nextcloud E2EE [broken](https://eprint.iacr.org/2024/546.pdf)
+* About Apple threat [notifications](https://support.apple.com/102174) and protecting against mercenary spyware
