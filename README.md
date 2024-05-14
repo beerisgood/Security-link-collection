@@ -53,3 +53,4 @@
 * Cloud InSecurity: Nextcloud E2EE [broken](https://eprint.iacr.org/2024/546.pdf)
 * About Apple threat [notifications](https://support.apple.com/102174) and protecting against mercenary spyware
 * WiFi - The [SSID Confusion Attack](https://www.top10vpn.com/research/wifi-vulnerability-ssid/)
+* [Leveraging](https://unit42.paloaltonetworks.com/three-dns-tunneling-campaigns/) DNS Tunneling for Tracking and Scanning
