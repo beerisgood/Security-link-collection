@@ -46,7 +46,7 @@
 * Protecting Chrome Traffic with [Hybrid Kyber KEM](https://blog.chromium.org/2023/08/protecting-chrome-traffic-with-hybrid.html)
 * fail2ban [sucks](https://j3s.sh/thought/fail2ban-sux.html)
 * iMessage with [PQ3](https://security.apple.com/blog/imessage-pq3/) post-quantum cryptographic protocol - external security review [1](https://security.apple.com/assets/files/Security_analysis_of_the_iMessage_PQ3_protocol_Stebila.pdf), [2](https://security.apple.com/assets/files/A_Formal_Analysis_of_the_iMessage_PQ3_Messaging_Protocol_Basin_et_al.pdf)
-* Security problems with [Routers](https://routersecurity.org/consumerrouters.php) like from [Netgear](https://web.archive.org/web/20240610184918/https://redfoxsec.com/blog/security-advisory-multiple-vulnerabilities-in-netgear-wnr614-router/)
+* Security problems with [Routers](https://routersecurity.org/consumerrouters.php) like from [Netgear](https://web.archive.org/web/20240610184918/https://redfoxsec.com/blog/security-advisory-multiple-vulnerabilities-in-netgear-wnr614-router/) or [D-Link](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-d-link-dir-859-router-flaw-to-steal-passwords/)
 * [how](https://developer.apple.com/security/complying-with-the-dma.pdf) Apple handle the Digital Markets Act
 * Breaking the DECT Standard Cipher [with](https://eprint.iacr.org/2024/404) Lower Time Cost
 * IoT Device Security [Specification 1.0](https://csa-iot.org/newsroom/the-connectivity-standards-alliance-product-security-working-group-launches-the-iot-device-security-specification-1-0/)
