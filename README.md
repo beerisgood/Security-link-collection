@@ -54,3 +54,4 @@
 * About Apple threat [notifications](https://support.apple.com/102174) and protecting against mercenary spyware
 * WiFi - The [SSID Confusion Attack](https://www.top10vpn.com/research/wifi-vulnerability-ssid/)
 * [Leveraging](https://unit42.paloaltonetworks.com/three-dns-tunneling-campaigns/) DNS Tunneling for Tracking and Scanning
+* Security research on Apple's [Private Cloud Compute](https://security.apple.com/blog/pcc-security-research)
