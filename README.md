@@ -55,3 +55,4 @@
 * WiFi - The [SSID Confusion Attack](https://www.top10vpn.com/research/wifi-vulnerability-ssid/)
 * [Leveraging](https://unit42.paloaltonetworks.com/three-dns-tunneling-campaigns/) DNS Tunneling for Tracking and Scanning
 * Security research on Apple's [Private Cloud Compute](https://security.apple.com/blog/pcc-security-research)
+* Privacy, Anonymity and Compartmentalization [repository](https://github.com/HotCakeX/Privacy-Anonymity-Compartmentalization)
