@@ -20,7 +20,7 @@
 * [test](https://isbgpsafeyet.com/) your ISP (Internet Service Provider) Border Gateway Protocol (BGP) security
 * Stop using (encrypted) [Email](https://latacora.singles/2020/02/19/stop-using-encrypted.html)
 * FLOSS [doesn't](https://seirdy.one/2022/02/02/floss-security.html) imply security
-* Email Security [Pitfalls](https://improsec.com/tech-blog/email-security-pitfalls)
+* Email Security [Pitfalls](https://web.archive.org/web/20230601105530/https://improsec.com/tech-blog/email-security-pitfalls)
 * End-to-End Encryption in [Web Apps](https://cronokirby.com/posts/2021/06/e2e_in_the_browser/)
 * Docker - the [security nightmare](https://wonderfall.dev/docker-hardening/#is-it-really-a-security-nightmare) of [dependencies](https://wonderfall.dev/docker-hardening/#the-nightmare-of-dependencies) and [hidden place](https://community.atlassian.com/t5/Trust-Security-articles/Hiding-malware-in-Docker-Desktop-s-virtual-machine/ba-p/1924743) for malware, [exposed](https://arxiv.org/pdf/2307.03958.pdf) secrets and private keys and also with "Hub" a place for [millions of malicious repositories](https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/)
 * SIM Card [Hijacking](https://www.maketecheasier.com/sim-card-hijacking/): How it works and what you can do about it
