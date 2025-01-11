@@ -34,7 +34,7 @@
 * Phishing [with](https://mrd0x.com/phishing-with-chromium-application-mode/) Chromium's Application Mode
 * Browser in the Browser (BITB) [Attack](https://mrd0x.com/browser-in-the-browser-phishing-attack/)
 * Chrome Browser Exploitation [Part 1](https://jhalon.github.io/chrome-browser-exploitation-1/)
-* [graphics](https://archive.is/432zQ) about [PassKeys](https://www.passkeys.io) in detail and an [overview](https://passkeys.directory) of supporting websites
+* [graphics](https://archive.is/432zQ) about [PassKeys](https://www.passkeys.io) in detail, security [overview](https://support.apple.com/102195) and an [overview](https://passkeys.directory) of supporting websites
 * What [happens](https://blog.bytebytego.com/i/64353490/how-does-visa-work-when-we-swipe-a-credit-card-at-a-merchants-shop) when you swipe a credit card and what are the [differences](https://blog.bytebytego.com/i/68502474/visa-vs-american-express)
 * What are the differences [between](https://www.youtube.com/watch?v=Jz8Gs4UHTO8) bare metal, virtual machines, and containers
 * HTTP/1 to HTTP/2 [to](https://www.youtube.com/watch?v=a-sBfyiXysI) HTTP/3 - a [Deep Dive](https://blog.bytebytego.com/p/http1-vs-http2-vs-http3-a-deep-dive)
