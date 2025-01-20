@@ -56,3 +56,4 @@
 * [Leveraging](https://unit42.paloaltonetworks.com/three-dns-tunneling-campaigns/) DNS Tunneling for Tracking and Scanning
 * Security research on Apple's [Private Cloud Compute](https://security.apple.com/blog/pcc-security-research)
 * Privacy, Anonymity and Compartmentalization [repository](https://github.com/HotCakeX/Privacy-Anonymity-Compartmentalization)
+* Flow Correlation Attacks on Tor Onion Service Sessions with [Sliding Subset Sum](https://www.ndss-symposium.org/wp-content/uploads/2024-337-paper.pdf)
