@@ -58,3 +58,4 @@
 * Privacy, Anonymity and Compartmentalization [repository](https://github.com/HotCakeX/Privacy-Anonymity-Compartmentalization)
 * Flow Correlation Attacks on Tor Onion Service Sessions with [Sliding Subset Sum](https://www.ndss-symposium.org/wp-content/uploads/2024-337-paper.pdf)
 * [Detect and avoid](https://support.apple.com/102568) social engineering schemes such as phishing messages, fake support calls, and other scams
+* [Understanding](https://machinelearning.apple.com/research/differential-privacy-aggregate-trends) Aggregate Trends for Apple Intelligence Using Differential Privacy
