@@ -5,7 +5,7 @@
 * Networking 101 [YouTube](https://www.youtube.com/playlist?list=PLR0bgGon_WTKY2irHaG_lNRZTrA7gAaCj)
 * The Six [Dumbest Ideas](https://www.ranum.com/security/computer_security/editorials/dumb/index.html) in Computer Security
 * [How](https://www.grc.com/dns/dns.htm) [*to*](https://www.dnsleaktest.com) [test](https://bash.ws/dnsleak/) [*your*](https://dnscheck.tools/) [DNS](https://cmdns.dev.dns-oarc.net) (security & privacy)
-* [How](https://www.ssllabs.com/ssltest/analyze.html) [*to*](https://www.virustotal.com/gui/home/url) [test](https://webbkoll.dataskydd.net/) website (security, privacy & [cookies](https://2gdpr.com)) 
+* [How](https://www.ssllabs.com/ssltest/analyze.html) [*to*](https://www.virustotal.com/gui/home/url) [test](https://webbkoll.dataskydd.net/) website (security, privacy, [cookies](https://2gdpr.com) or [headers](https://securityheaders.com)) 
 * [How](https://mecsa.jrc.ec.europa.eu/) [*to*](https://internet.nl/test-mail/) [test](https://ssl-tools.net/mailservers) [*your*](https://www.emailprivacytester.com/) eMail provider (security & privacy)
 * Why the FBI [can’t get](https://blog.cryptographyengineering.com/2021/03/25/whats-in-your-browser-backup/) your browsing history from Apple iCloud (and other scary stories)
 * Why GPG/ (Open-)PGP [isn't](https://archive.is/K1eZz) [*recommend*](https://web.archive.org/web/20230601224637/https://twitter.com/DanielMicay/status/1145264664315604992) and what the numerous [*problems*](https://latacora.micro.blog/2019/07/16/the-pgp-problem.html) [are](https://www.kicksecure.com/wiki/OpenPGP#Issues_with_PGP)
