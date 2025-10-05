@@ -60,3 +60,4 @@
 * [Detect and avoid](https://support.apple.com/102568) social engineering schemes such as phishing messages, fake support calls, and other scams
 * [Understanding](https://machinelearning.apple.com/research/differential-privacy-aggregate-trends) Aggregate Trends for Apple Intelligence Using Differential Privacy
 * Online Identity Verification with the [Digital Credentials API](https://webkit.org/blog/17431/online-identity-verification-with-the-digital-credentials-api/)
+* Video: Secure your app with Memory Integrity Enforcement | [Meet with Apple](https://www.youtube.com/watch?v=iYUMr3Y9fAU)
