@@ -61,4 +61,4 @@
 * [Understanding](https://machinelearning.apple.com/research/differential-privacy-aggregate-trends) Aggregate Trends for Apple Intelligence Using Differential Privacy
 * Online Identity Verification with the [Digital Credentials API](https://webkit.org/blog/17431/online-identity-verification-with-the-digital-credentials-api/)
 * Video: Secure your app with Memory Integrity Enforcement | [Meet with Apple](https://www.youtube.com/watch?v=iYUMr3Y9fAU)
-* ASCII [Smuggling](https://reference.garak.ai/en/latest/ascii_smuggling.html) for [LLMs](https://www.promptfoo.dev/docs/red-team/plugins/ascii-smuggling/)
+* ASCII [Smuggling](https://reference.garak.ai/en/latest/ascii_smuggling.html) for [LLMs](https://www.promptfoo.dev/docs/red-team/plugins/ascii-smuggling/), Hidden Prompt Injections with Anthropic [Claude](https://embracethered.com/blog/posts/2024/claude-hidden-prompt-injection-ascii-smuggling/)
