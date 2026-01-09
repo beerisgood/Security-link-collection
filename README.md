@@ -18,7 +18,7 @@
 * [Enumerating](https://lwn.net/Articles/293034/) badness
 * (Electron; nodejs) [Applications](https://github.com/sickcodes/no-sandbox) that run Chromium without the Sandbox
 * [test](https://isbgpsafeyet.com/) your ISP (Internet Service Provider) Border Gateway Protocol (BGP) security
-* Stop using (encrypted) [Email](https://latacora.singles/2020/02/19/stop-using-encrypted.html)
+* Stop using (encrypted) [Email](https://latacora.singles/2020/02/19/stop-using-encrypted.html), even in [2026](https://soatok.blog/2026/01/04/everything-you-need-to-know-about-email-encryption-in-2026/).
 * FLOSS [doesn't](https://seirdy.one/2022/02/02/floss-security.html) imply security
 * Email Security [Pitfalls](https://web.archive.org/web/20230601105530/https://improsec.com/tech-blog/email-security-pitfalls)
 * End-to-End Encryption in [Web Apps](https://cronokirby.com/posts/2021/06/e2e_in_the_browser/)
