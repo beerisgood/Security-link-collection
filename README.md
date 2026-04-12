@@ -65,3 +65,4 @@
 * Hacking Google Bard - [From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/), Mitigating prompt injection attacks with a [layered defense strategy](https://security.googleblog.com/2025/06/mitigating-prompt-injection-attacks.html)
 * [TEE.fail](https://tee.fail): Breaking Trusted Execution Environments via DDR5 Memory Bus Interposition
 * [GPUBreach](https://gpubreach.ca): Privilege Escalation Attacks on GPUs using Rowhammer
+* What does Lockdown Mode actually do to keep you safe from spyware? [Video](https://www.youtube.com/watch?v=5D3lWDUEJA8)
