@@ -66,3 +66,4 @@
 * [TEE.fail](https://tee.fail): Breaking Trusted Execution Environments via DDR5 Memory Bus Interposition
 * [GPUBreach](https://gpubreach.ca): Privilege Escalation Attacks on GPUs using Rowhammer
 * What does Lockdown Mode actually do to keep you safe from spyware? [Video](https://www.youtube.com/watch?v=5D3lWDUEJA8)
+* A [blueprint](https://security.apple.com/blog/formal-verification-corecrypto/) for formal verification of Apple corecrypto
