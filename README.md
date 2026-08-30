@@ -67,3 +67,6 @@
 * [GPUBreach](https://gpubreach.ca): Privilege Escalation Attacks on GPUs using Rowhammer
 * What does Lockdown Mode actually do to keep you safe from spyware? [Video](https://www.youtube.com/watch?v=5D3lWDUEJA8)
 * A [blueprint](https://security.apple.com/blog/formal-verification-corecrypto/) for formal verification of Apple corecrypto
+* [GPUHammer](https://gpuhammer.com): Rowhammer Attacks on GPU Memories are Practical
+* [GPUBreach](https://gpubreach.ca): Privilege Escalation Attacks on GPUs using Rowhammer
+* [GPUThor](https://gputhor.com) - Amplifying Rowhammer Attacks via Non-Uniform Patterns to Exploit ECC-Protected GPUs
