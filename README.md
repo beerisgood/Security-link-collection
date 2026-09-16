@@ -70,3 +70,4 @@
 * [GPUHammer](https://gpuhammer.com): Rowhammer Attacks on GPU Memories are Practical
 * [GPUBreach](https://gpubreach.ca): Privilege Escalation Attacks on GPUs using Rowhammer
 * [GPUThor](https://gputhor.com) - Amplifying Rowhammer Attacks via Non-Uniform Patterns to Exploit ECC-Protected GPUs
+* Apple Reference Image: A New Approach for [Verified Photography](https://security.apple.com/blog/apple-reference-image)
